@@ -3,8 +3,8 @@
 
 <svg
    width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   height="360mm"
+   viewBox="0 0 210 360"
    version="1.1"
    id="svg135"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -26,8 +26,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.33122835"
-     inkscape:cx="1123.0923"
-     inkscape:cy="723.06613"
+     inkscape:cx="1120.0732"
+     inkscape:cy="729.10426"
      inkscape:window-width="1912"
      inkscape:window-height="1042"
      inkscape:window-x="1080"
@@ -37,7 +37,7 @@
        x="0"
        y="0"
        width="210"
-       height="297"
+       height="360"
        id="page555" /><inkscape:page
        x="220"
        y="0"
@@ -3745,13 +3745,13 @@
        apply_no_weight="true"
        apply_with_weight="true"
        only_selected="false" /><filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter202324"
        x="-0.15836066"
-       y="-0.92560153"
+       y="-0.92560154"
        width="1.4486885"
-       height="3.6225377"><feFlood
+       height="3.6225376"><feFlood
          flood-opacity="0.498039"
          flood-color="rgb(0,0,0)"
          result="flood"
@@ -3774,7 +3774,7 @@
          operator="over"
          result="composite2"
          id="feComposite202322" /></filter><filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter204534"
        x="-0.050408635"
@@ -3803,7 +3803,7 @@
          operator="over"
          result="composite2"
          id="feComposite204532" /></filter><filter
-       style="color-interpolation-filters:sRGB;"
+       style="color-interpolation-filters:sRGB"
        inkscape:label="Drop Shadow"
        id="filter205194"
        x="-0.11569982"
@@ -4880,7 +4880,7 @@
            id="path65672"
            inkscape:label="creaseline"
            transform="matrix(0.25495658,0,0,0.25495658,9.4761876,-28.020542)" /><path
-           style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.16381462;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.163815;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
            d="m 30.302808,140.48984 c 1.092163,-0.003 2.184169,-0.006 3.276018,-0.009"
            id="path65832"
            inkscape:path-effect="#path-effect65834"
@@ -4933,7 +4933,7 @@
            id="path65672-9"
            inkscape:label="creaseline"
            transform="matrix(0.25495658,0,0,0.25495658,9.4761876,-28.020542)" /><path
-           style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.16381462;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           style="fill:none;fill-opacity:1;stroke:#999999;stroke-width:0.163815;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
            d="m 30.36329,140.48984 c 1.092163,-0.003 2.184169,-0.006 3.276017,-0.009"
            id="path65832-9"
            inkscape:path-effect="#path-effect65834-5"
@@ -17934,7 +17934,7 @@ glSMUny4xmmhUHelwlL8uMZpMJRhKMJTsj1pNueaNlM4HFHFHFHFKDjpScUcUcUcUpOetKFz0FG3
          inkscape:label="tail"><g
            id="g202080"
            inkscape:label="Tail end - under"
-           style="stroke-linejoin:round;stroke-linecap:round"><path
+           style="stroke-linecap:round;stroke-linejoin:round"><path
              style="fill:#666666;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
              d="m 367.28632,129.39931 -35.31457,-9.48426 17.58003,-13.17306"
              id="path202070"
@@ -17948,7 +17948,7 @@ glSMUny4xmmhUHelwlL8uMZpMJRhKMJTsj1pNueaNlM4HFHFHFHFKDjpScUcUcUcUpOetKFz0FG3
            inkscape:label="tail middle - under" /><g
            id="g202034"
            inkscape:label="tail middle"
-           style="fill:#cccccc;stroke-linejoin:round;stroke-linecap:round"><path
+           style="fill:#cccccc;stroke-linecap:round;stroke-linejoin:round"><path
              style="fill:#cccccc;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
              d="m 332.03655,103.85838 1.34284,15.09628"
              id="path202028" /><path
@@ -18036,7 +18036,7 @@ glSMUny4xmmhUHelwlL8uMZpMJRhKMJTsj1pNueaNlM4HFHFHFHFKDjpScUcUcUcUpOetKFz0FG3
          inkscape:label="left leg middle" /><g
          id="g202096"
          inkscape:label="Left leg toe"
-         style="stroke-linejoin:round;stroke-linecap:round"><path
+         style="stroke-linecap:round;stroke-linejoin:round"><path
            style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
            d="m 294.8238,109.58065 -21.69445,-4.01391"
            id="path202090" /><path
