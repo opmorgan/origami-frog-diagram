@@ -24,13 +24,13 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.1641073"
-     inkscape:cx="568.67611"
-     inkscape:cy="290.78076"
-     inkscape:window-width="1912"
-     inkscape:window-height="1042"
+     inkscape:zoom="0.82314815"
+     inkscape:cx="423.982"
+     inkscape:cy="422.15973"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
      inkscape:window-x="1080"
-     inkscape:window-y="450"
+     inkscape:window-y="420"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -1436,7 +1436,7 @@
     <g
        id="g158396-6"
        inkscape:label="Step 15"
-       transform="matrix(1.1737589,0,0,1.1737589,-38.806047,-67.099138)">
+       transform="matrix(1.1737589,0,0,1.1737589,-38.806047,-66.040801)">
       <g
          id="g151848-2">
         <path
@@ -1520,7 +1520,7 @@
     <g
        id="g136056-8-9"
        inkscape:label="Step 3"
-       transform="translate(-24.106127,28.48243)">
+       transform="translate(-24.106127,29.540767)">
       <rect
          style="fill:#ffffeb;fill-opacity:1;stroke:#000000;stroke-width:0.253785;stroke-dasharray:none"
          id="rect611-9-5-6"
@@ -1595,7 +1595,7 @@
     <g
        id="g32358-4-8"
        inkscape:label="Step 4"
-       transform="translate(115.68857,-18.20937)">
+       transform="translate(115.68857,-17.151033)">
       <g
          id="g26752-8-9"
          inkscape:label="paper">
@@ -1676,7 +1676,7 @@
     <g
        id="g32378-4-6"
        inkscape:label="Step 5"
-       transform="translate(110.5911,-19.515552)">
+       transform="translate(110.5911,-18.457215)">
       <path
          d="m 112.06938,96.321859 h -31.75 l 15.875,-15.87499 z"
          id="path3881-9-6-8"
@@ -1767,7 +1767,7 @@
     <g
        id="g61619-4-5"
        inkscape:label="Step 6"
-       transform="translate(-113.78975,26.921889)">
+       transform="translate(-113.78975,27.980226)">
       <path
          d="m 160.06938,88.381793 h -31.75 l 15.875,-15.87499 z"
          id="path3881-9-0-9-5"
@@ -1863,7 +1863,7 @@
     <g
        id="g61395-3-6-5-9"
        inkscape:label="Step 11"
-       transform="translate(21.904693,-5.9517222)">
+       transform="translate(21.904693,-4.893388)">
       <g
          id="g60315-8-9-1-6"
          inkscape:label="Back layers">
@@ -2165,7 +2165,7 @@
     <g
        id="g61395-3-3-0-9"
        inkscape:label="Step 12"
-       transform="translate(63.247163,-6.3400773)">
+       transform="translate(63.247163,-5.2817437)">
       <g
          id="g60315-8-0-3-8"
          inkscape:label="Back layers">
@@ -2481,7 +2481,7 @@
     <g
        id="g188048-3-7"
        inkscape:label="Step 17"
-       transform="matrix(1.1349286,0,0,1.1349286,116.07695,-102.85944)">
+       transform="matrix(1.1349286,0,0,1.1349286,116.07695,-101.80107)">
       <g
          id="g185785-99-1"
          inkscape:label="17 outline">
@@ -2618,7 +2618,7 @@
     </g>
     <g
        id="g77538-4-7-6"
-       transform="translate(62.240652,33.825485)"
+       transform="translate(62.240652,34.883822)"
        inkscape:label="Turn over">
       <path
          style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend-0-0-2)"
@@ -2636,7 +2636,7 @@
     <g
        id="g188048-6-8-9"
        inkscape:label="Step 18"
-       transform="matrix(1.1258084,0,0,1.1258092,153.70138,-100.76632)">
+       transform="matrix(1.1258084,0,0,1.1258092,153.70138,-99.707953)">
       <g
          id="g185785-9-7-6"
          inkscape:label="17 outline">
@@ -2944,7 +2944,7 @@
     <g
        id="g212159-2-6-0-0"
        inkscape:label="Completed model"
-       transform="matrix(0.31197301,0,0,0.31197301,21.407562,4.5384539)">
+       transform="matrix(0.31197301,0,0,0.31197301,21.459924,4.5384539)">
       <path
          style="fill:#9dcc7d;fill-opacity:1;stroke:#000000;stroke-width:0.833405;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          d="m 332.03655,103.85838 -67.45584,-9.022907 66.99475,-41.784885 33.649,26.126916 z"
@@ -3116,7 +3116,7 @@
     </g>
     <g
        id="g49069-3-2"
-       transform="translate(27.248713,-11.492557)"
+       transform="translate(27.248713,-10.43422)"
        inkscape:label="Step 7">
       <g
          id="g48266-5-0"
@@ -3339,7 +3339,7 @@
     <g
        id="g61395-8-5"
        inkscape:label="Step 9"
-       transform="translate(-23.423297,-6.1751052)">
+       transform="translate(-23.423297,-5.116771)">
       <g
          id="g60315-7-6"
          inkscape:label="Back layers">
@@ -3601,7 +3601,7 @@
     <g
        id="g61619-2-6-7"
        inkscape:label="Step 13"
-       transform="translate(-113.65656,67.619631)">
+       transform="translate(-113.65656,68.677968)">
       <g
          id="g79934-9-3"
          inkscape:label="Back eyes layer"
@@ -3803,7 +3803,7 @@
     </g>
     <g
        id="g85289-7-5"
-       transform="matrix(1.4495827,0,0,1.4496073,-69.446237,-115.37937)"
+       transform="matrix(1.4495827,0,0,1.4496073,-69.446237,-114.321)"
        inkscape:label="Step 14">
       <g
          id="g82491-1-1"
@@ -4024,7 +4024,7 @@
     <g
        id="g158396-2-7-3"
        inkscape:label="Step 16"
-       transform="matrix(1.1626292,0,0,1.1626292,-4.5482675,-64.953727)">
+       transform="matrix(1.1626292,0,0,1.1626292,-4.5482675,-63.89539)">
       <g
          id="g151848-6-8-9"
          inkscape:label="base">
@@ -4162,35 +4162,35 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.6782px;line-height:0;font-family:sans-serif;text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266954"
-       x="93.407532"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6782px;line-height:0;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:end;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.266954"
+       x="92.327805"
        y="27.797024"
        id="text258862"
        transform="scale(0.9911173,1.0089623)"><tspan
-         style="font-size:9.00431px;line-height:1.25;text-align:end;text-anchor:end;stroke-width:0.266954"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.00431px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:end;text-anchor:end;stroke-width:0.266954"
          sodipodi:role="line"
          id="tspan303487"
-         x="93.407532"
+         x="92.327805"
          y="27.797024">Jumping Frog</tspan><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;line-height:1.25;text-align:end;text-anchor:end;stroke-width:0.266954"
-         x="93.407532"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:end;text-anchor:end;stroke-width:0.266954"
+         x="92.327805"
          y="34.711414"
          id="tspan258868">Design by Hal Morgan</tspan><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;line-height:1.25;text-align:end;text-anchor:end;stroke-width:0.266954"
-         x="93.407532"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:end;text-anchor:end;stroke-width:0.266954"
+         x="92.327805"
          y="40.003078"
          id="tspan258864">Diagrams by Owen Morgan</tspan><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;line-height:1.25;text-align:end;text-anchor:end;stroke-width:0.266954"
-         x="93.407532"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:end;text-anchor:end;stroke-width:0.266954"
+         x="92.327805"
          y="45.294739"
          id="tspan258870">Paper: 3&quot; memo paper or tant (80gsm)</tspan></text>
     <g
        id="g26744-9-9"
        inkscape:label="Step 1"
-       transform="translate(-17.595368,29.036191)">
+       transform="translate(-17.595368,30.094528)">
       <path
          id="rect611-7-9"
          style="fill:#ffffeb;stroke:#333333;stroke-width:0.251788;stroke-opacity:1"
@@ -4222,7 +4222,7 @@
     <g
        id="g26734-9-4"
        inkscape:label="Step 2"
-       transform="translate(-20.683797,28.782406)">
+       transform="translate(-20.683797,29.840743)">
       <g
          id="g4779-4-3"
          inkscape:label="step 2">
@@ -4281,33 +4281,33 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.149516"
-       x="147.22797"
+       x="147.71761"
        y="24.197308"
        id="text268952"><tspan
          sodipodi:role="line"
          id="tspan268950"
-         style="font-size:4.23333px;stroke-width:0.149516"
-         x="147.22797"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.149516"
+         x="147.71761"
          y="24.197308">When made with small and thick </tspan><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;stroke-width:0.149516"
-         x="147.22797"
-         y="29.48897"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.149516"
+         x="147.71761"
+         y="29.636608"
          id="tspan268956">paper, this frog can jump really high!</tspan><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;stroke-width:0.149516"
-         x="147.22797"
-         y="34.780632"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.149516"
+         x="147.71761"
+         y="35.075909"
          id="tspan303427">For maximum liftoff, crease the tail </tspan><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;stroke-width:0.149516"
-         x="147.22797"
-         y="40.072296"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.149516"
+         x="147.71761"
+         y="40.515209"
          id="tspan268962">softly to add spring, and press gently </tspan><tspan
          sodipodi:role="line"
-         style="font-size:4.23333px;stroke-width:0.149516"
-         x="147.22797"
-         y="45.363956"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.149516"
+         x="147.71761"
+         y="45.95451"
          id="tspan268964">with your finger when launching.</tspan></text>
     <path
        style="fill:#000000;stroke-width:0.146319"
@@ -5368,13 +5368,13 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.23333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="132.04404"
-       y="217.62065"
+       x="134.16068"
+       y="217.09149"
        id="text308574"><tspan
          sodipodi:role="line"
          id="tspan308572"
-         style="font-size:4.23333px;stroke-width:0.264583"
-         x="132.04404"
-         y="217.62065">© 2023</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';stroke-width:0.264583"
+         x="134.16068"
+         y="217.09149">© 2023</tspan></text>
   </g>
 </svg>
