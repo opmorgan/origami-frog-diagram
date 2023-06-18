@@ -9,7 +9,7 @@
    id="svg295490"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="origami-frog-diagram_5.0.svg"
-   inkscape:export-filename="origami-frog-diagram_4.0.png"
+   inkscape:export-filename="origami-frog-diagram_5.0.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,7 +28,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.82314815"
-     inkscape:cx="662.69966"
+     inkscape:cx="565.51181"
      inkscape:cy="424.58943"
      inkscape:window-width="1912"
      inkscape:window-height="1042"
@@ -1439,7 +1439,7 @@
     <g
        id="g4454">
       <rect
-         style="opacity:1;fill:#fffaf7;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill;fill-opacity:1"
+         style="opacity:1;fill:#fffcf7;fill-rule:evenodd;stroke:#999999;stroke-width:0.2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke markers fill;fill-opacity:1"
          id="rect311771"
          width="240"
          height="240"
